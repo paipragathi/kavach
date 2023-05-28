@@ -1,0 +1,170 @@
+{
+  "Header": {
+    "title": "Your Health, Our Priority.",
+    "paragraph": "Breaking barriers and shattering taboos. Revolutionizing women's healthcare. Affordable and accessible AI-powered support. Empowerment and well-being for all women."
+  },
+  "About": {
+    "paragraph": "Our moto is to provide women with regular gynaec checkup and provide them with basic servies. The other thing about us",
+    "Why": [
+      "Easy access",
+      "Economical",
+      "Cut down on travel time",
+      "One-stop destination"
+    ],
+    "Why2": [
+      "Delivery at doorsteps",
+      "Self diagnosis",
+      "Anonymity",
+      "Removing the stigma"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Health Risks during Pregnancy",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Sex Education",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "STI / STD",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "LABORATORY TESTS",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "gynaecologist consultation",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Prescription and delivery",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Medicines",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Health Reminders",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "contraceptives",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "STI/STD Predictor",
+      "text": "An efficient way of self diagnosing sexually transmitted diseases to avoid the time and expense of a consultation."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Business potential with hospital management ",
+      "text": "Future business potential with hospitals to seamlessly manage patient records, along with integration of app into the hospital's brand."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Assessment tool for Gynaecologists",
+      "text": "An excellent tool for diagnosis saving the time of both doctors and patients alike."
+    }
+  
+  ],
+  "Testimonials": [
+    {
+      
+      "text": "\"Understanding the female sexual anatomy is crucial for sexual health. The external genitalia of women include the clitoris, labia, and vaginal opening, while internally, there are the vagina, cervix, uterus, and ovaries.\"",
+      "name": "John Doe"
+    },
+    {
+      
+      "text": "\"LWomen should prioritize safe sex practices to prevent sexually transmitted infections (STIs). This includes using condoms, getting regular STI screenings, and discussing sexual health with partners.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      
+      "text": "\"Hormonal changes throughout a woman's life, such as during puberty, menstrual cycles, pregnancy, and menopause, can influence mental health. Hormonal fluctuations may contribute to mood swings, irritability, and increased vulnerability to mental health disorders.\"",
+      "name": "John Doe"
+    },
+    {
+      
+      "text": "\"After giving birth, some women experience postpartum depression, which is characterized by feelings of extreme sadness, anxiety, and exhaustion. It is estimated that around 10-15% of women experience postpartum depression, and it can have significant impacts on both the mother and the baby.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      
+      "text": "\"Women often face unique stressors related to balancing work, family responsibilities, and societal expectations. Juggling multiple roles can contribute to stress, burnout, and increased susceptibility to mental health problems.\"",
+      "name": "John Doe"
+    },
+    {
+      
+      "text": "It's important to recognize that mental health experiences can differ based on intersecting factors such as race, ethnicity, socioeconomic status, sexual orientation, and disability. Women from marginalized communities may face additional challenges and disparities in mental healthcare.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Aditi",
+      "job": "Frontend Developer"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Pragathi Pai",
+      "job": "ML Engineer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Prakriti Singh",
+      "job": "Backend Developer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Anisha Patra",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "1849, 15th cross JP Nagar, Bengaluru, 560078  ",
+    "phone": "+91 898 661 1657",
+    "email": "kavach@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "STI Predictor",
+      "text": "Predicts if someone has STI or STD via answering certain questions without hindering ones personal identity."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Contraceptive Recommender",
+      "text": "Provides comprehensive contraceptive counseling based on user profiles and preferences."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Fertility Assessment",
+      "text": "Assesses fertility factors based on user-provided information like menstrual cycle tracking and provides potential optimization strategies. "
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Pregnancy Health Risk Predictor",
+      "text": "Predicts health risks during pregnancy based on health conditions."
+    }
+  ]
+}
